@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "title": "Learn Python",
+        "description": "OOP + File Handling",
+        "due_date": "2025-12-25",
+        "status": "Pending"
+    },
+    {
+        "id": 2,
+        "title": "Build Project",
+        "description": "Smart Task Manager",
+        "due_date": "2025-12-27",
+        "status": "Pending"
+    },
+    {
+        "id": 3,
+        "title": "Learn Python",
+        "description": "OOP + File Handling",
+        "due_date": "2025-12-28",
+        "status": "Pending"
+    },
+    {
+        "id": 4,
+        "title": "asasda",
+        "description": "qwed ssds",
+        "due_date": "2020-12-25",
+        "status": "Pending"
+    }
+]
